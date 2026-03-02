@@ -14,10 +14,10 @@ https://assignment2-webapi.onrender.com
 - **POST** `/signin`  
   https://assignment2-webapi.onrender.com/signin
 
-- **GET / POST / PUT / DELETE** `/movies`  
   https://assignment2-webapi.onrender.com/movies
 
-> Note: The base URL `/` intentionally returns an error message, as required by the assignment.
+> Note: The base URL `/` intentionally returns an error message, as specified by the assignment.
+
 - **GitHub Repository:** https://github.com/SamFredrick/Assignment2_WebAPI
 
 ---
