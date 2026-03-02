@@ -1,4 +1,4 @@
-# CSC3916 – Assignment 2 Web API
+# CSCI3916 – Assignment 2 Web API
 
 ## Links
 
