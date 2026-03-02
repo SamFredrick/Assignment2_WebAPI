@@ -2,7 +2,22 @@
 
 ## Links
 
-- **Live API (Render):** https://assignment2-webapi.onrender.com
+## Live API (Render)
+
+Base URL (intentionally rejected per assignment requirements):  
+https://assignment2-webapi.onrender.com
+
+### Available Routes
+- **POST** `/signup`  
+  https://assignment2-webapi.onrender.com/signup
+
+- **POST** `/signin`  
+  https://assignment2-webapi.onrender.com/signin
+
+- **GET / POST / PUT / DELETE** `/movies`  
+  https://assignment2-webapi.onrender.com/movies
+
+> Note: The base URL `/` intentionally returns an error message, as required by the assignment.
 - **GitHub Repository:** https://github.com/SamFredrick/Assignment2_WebAPI
 
 ---
